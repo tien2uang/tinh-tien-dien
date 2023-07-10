@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tinh-tien-dien/static/css/main.64ba241b.css",
+    "main.js": "/tinh-tien-dien/static/js/main.9768eba3.js",
+    "static/js/787.f1dc85f1.chunk.js": "/tinh-tien-dien/static/js/787.f1dc85f1.chunk.js",
+    "static/media/logo.svg": "/tinh-tien-dien/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tinh-tien-dien/index.html",
+    "main.64ba241b.css.map": "/tinh-tien-dien/static/css/main.64ba241b.css.map",
+    "main.9768eba3.js.map": "/tinh-tien-dien/static/js/main.9768eba3.js.map",
+    "787.f1dc85f1.chunk.js.map": "/tinh-tien-dien/static/js/787.f1dc85f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64ba241b.css",
+    "static/js/main.9768eba3.js"
+  ]
+}
